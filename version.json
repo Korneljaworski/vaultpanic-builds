@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "pck_url": "https://github.com/Korneljaworski/vaultpanic-builds/releases/latest/download/Vault.Panic.pck",
+  "notes_pl": "Wersja startowa z systemem automatycznych aktualizacji!",
+  "notes_en": "Initial build with auto-updater!"
+}
